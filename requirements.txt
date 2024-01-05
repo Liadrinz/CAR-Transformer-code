@@ -1,0 +1,8 @@
+numpy
+transformers==4.24.0
+torch==1.8.1
+torchvision==0.9.1
+tqdm
+evaluate
+datasets==2.8.0
+files2rouge==2.1.0
